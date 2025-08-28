@@ -1,0 +1,2 @@
+
+global.inWater = false;

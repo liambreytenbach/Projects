@@ -1,0 +1,21 @@
+/// @description Insert description here
+// You can write your code in this editor
+
+//if(animation < 10){
+	animation += 1;
+//}
+
+if (animation > 4) {
+	animation = 0;
+}
+
+if (x - obj_player.x < 64 && random(10) > 5) {
+	x -= 10;
+	sprite_index = spr_scorpion_left_attack;
+	animation = 10;
+}
+
+if (sprite_index == spr_scorpion_right_injured) {
+	injured = false;
+	animation = 0;
+}
