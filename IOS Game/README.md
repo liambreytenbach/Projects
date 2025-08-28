@@ -18,7 +18,7 @@ To run or view this project, you may need the following software/applications:
 This folder includes:
 
 * Summary
-* Project File
+* Link to Project File
 
 ## Usage
 
@@ -28,4 +28,5 @@ Open the Google Drive folder found here: https://drive.google.com/file/d/1iDLcjR
 
 If you have any questions or would like more information:  
 Email: liam.breytenbach@email.com
+
 
