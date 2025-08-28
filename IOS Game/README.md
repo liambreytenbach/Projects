@@ -6,7 +6,9 @@
 
 Slosh is an iOS party game app that I independently designed and developed over a two-week period. The project focused on creating a fun and lightweight experience tailored for individual \& group play. Built from the ground up, it highlights my skills in mobile game development, user interface design, and rapid prototyping. The finished app was successfully published and is available on the iOS App Store.
 
-[![Game Link](https://github.com/liambreytenbach/Projects/tree/main/IOS%20Game)/Slosh QR Code.png)](https://apps.apple.com/us/app/slosh/id1672835055?ign-itscg=30200&ign-itsct=apps_box_link&mttnsubad=1672835055)
+<a href="https://apps.apple.com/us/app/slosh/id1672835055?ign-itscg=30200&ign-itsct=apps_box_link&mttnsubad=1672835055">
+  <img src="https://github.com/liambreytenbach/Projects/blob/main/IOS%20Game/Slosh%20QR%20Code.png?raw=true" alt="Game Link" width="200"/>
+</a>
 
 ## Requirements
 
@@ -30,6 +32,7 @@ Open the Google Drive folder found here: https://drive.google.com/file/d/1iDLcjR
 
 If you have any questions or would like more information:  
 Email: liam.breytenbach@email.com
+
 
 
 
