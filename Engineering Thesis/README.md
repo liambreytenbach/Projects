@@ -4,8 +4,8 @@
 ## Project Description
 This project aimed to develop a 2D game with procedurally generated terrain and engaging gameplay mechanics. Using the development software GameMaker, a fully functional game was presented, along with a custom gaming controller that met the player’s needs and adhered to technical constraints. In addition, the game was designed with sufficient complexity by incorporating advanced game mechanics, dynamics, and an aesthetically impressive display. Ample opportunity was provided for testing and evaluation of the game, ensuring that the expected deliverables were achieved.
 
-<a href="https://apps.apple.com/us/app/slosh/id1672835055?ign-itscg=30200&ign-itsct=apps_box_link&mttnsubad=1672835055">
-  <img src="https://github.com/liambreytenbach/Projects/blob/main/Engineering%20Thesis/APOCO%20QR%20Code.png?raw=true" alt="Game Link" width="200"/>
+<a href="https://apps.apple.com/us/app/apoco/id6748968227?ign-itscg=30200&ign-itsct=apps_box_link&mttnsubad=6748968227">
+  <img src="https://github.com/liambreytenbach/Projects/blob/main/Engineering%20Thesis/APOCO%20QR%20Code.png?raw=true" alt="APOCO QR Code" width="200"/>
 </a>
 
 ## Requirements
