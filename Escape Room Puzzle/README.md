@@ -10,7 +10,7 @@ This project involved designing and building a puzzle for a new escape room, app
 
 To run or view this project, you may need the following software/applications:
 
-* 
+* None
 
 ## Project Contents
 
